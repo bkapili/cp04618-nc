@@ -1,5 +1,5 @@
 ---
-title: "<br> Taxonomic profiling of bacterial and archaeal communities from saliva, stool, and CapScan-sampled gut metagenomes"
+title: "<br> Taxonomic profiling of bacterial and archaeal communities from saliva and CapScan-sampled gut metagenomes"
 output:
   html_document:
     df_print: paged
@@ -245,7 +245,7 @@ pBar <- plot_ly(df, x = ~Plot_label, y = ~Abundance, type = "bar",
 pBar$x$layout$yaxis$linecolor <- "#000000"
 pBar
 ```
-**Figure 1:** Microbial community composition of collected saliva, stool, and CapScan samples. CapScan samples are ordered from proximal to distal intestine (*i*.*e*., increasing distance from mouth). Taxonomic composition is reported at the genus rank. Genera present at <1% relative abundance across all samples are reported as "Other genera". <u>Note:</u> Blue = *Firmicutes*; Yellow = *Actinomycetes*; Green = *Bacteroidetes*; Red = *Proteobacteria*; Purple = all other phyla. Shades of the same color (except purple) correspond to different genera from the same phylum.
+**Figure 1:** Microbial community composition of collected saliva and CapScan samples. CapScan samples are ordered from proximal to distal intestine (*i*.*e*., increasing distance from mouth). Taxonomic composition is reported at the genus rank. Genera present at <1% relative abundance across all samples are reported as "Other genera". <u>Note:</u> Blue = *Firmicutes*; Yellow = *Actinomycetes*; Green = *Bacteroidetes*; Red = *Proteobacteria*; Purple = all other phyla. Shades of the same color (except purple) correspond to different genera from the same phylum.
 
 ```{r, include = FALSE}
 # Ordination-based
