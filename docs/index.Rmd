@@ -376,7 +376,7 @@ pHeat
   * Most relatively abundant microbe in proximal CapScan sample (~8%)
 <br><br>
 * *Faecalibacterium prausnitzii*:
-  * Previously shown to produce a small protein that alleviates gut inflammation in mouse models (Quévrain et al., 2017)
+  * Previously shown to produce a small protein that alleviates gut inflammation in mouse models (Quévrain *et al*., 2017)
   * Found at ~5% relative abundance in distal CapScan sample
   
 <br><br>
