@@ -385,6 +385,6 @@ pHeat
 ### 1.4 References
 </div>
 
-Quévrain, E., Maubert, M.A., Michon, C., Chain, F., Marquant, R., Tailhades, J., *et al*. (2017) Identification of an anti-inflammatory protein from *Faecalibacterium prausnitzii*, a commensal bacterium deficient in Crohn’s disease. Gut 65: 415–425.
+Quévrain, E., Maubert, M.A., Michon, C., Chain, F., Marquant, R., Tailhades, J., *et al*. (2017) Identification of an anti-inflammatory protein from *Faecalibacterium prausnitzii*, a commensal bacterium deficient in Crohn’s disease. *Gut* **65:** 415–425.
 
-Vogel, V., Bauer, R., Mauerer, S., Schiffelholz, N., Haupt, C., Seibold, G.M., *et al*. (2021) Angicin, a novel bacteriocin of *Streptococcus anginosus*. Sci Rep 11: 1–16.
+Vogel, V., Bauer, R., Mauerer, S., Schiffelholz, N., Haupt, C., Seibold, G.M., *et al*. (2021) Angicin, a novel bacteriocin of *Streptococcus anginosus*. *Sci Rep* **11:** 1–16.
